@@ -1,0 +1,1 @@
+print("Kate said \"Hello\"\n")
